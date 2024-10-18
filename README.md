@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm PRATIK VIRANI</h1>
+<marquee behavior="scroll" direction="up" scrollamount="1">Hi , I'm PRATIK VIRANI</marquee>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
 
