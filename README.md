@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [github](github)
 
-- 💬 Ask me about **react and vue ...**
+- 💬 Ask me about **react**
 
 - 📫 How to reach me **viranipratik530@gmail.com**
 
