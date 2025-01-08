@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **viranipratik530@gmail.com**
 
-- 👀 I’m currently open for an Intern or a new job opportunity, this is My Resume  [https://drive.google.com/file/d/19sj1Jaj2dmFlMnz5m4bDgwvqYlekwFJT/view?usp=drive_link](https://drive.google.com/file/d/19sj1Jaj2dmFlMnz5m4bDgwvqYlekwFJT/view?usp=drive_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
